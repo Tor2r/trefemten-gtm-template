@@ -2,5 +2,5 @@ homepage: "https://trefemten.no"
 documentation: "https://trefemten.no/dokumentasjon/google-tag-manager"
 versions:
   # Newest first. The sha is the commit in the public template repository that holds this version of template.tpl.
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: d47e1c998a21bcdb08b241c5a1e7027f78cbbac2
     changeNotes: Første versjon.
